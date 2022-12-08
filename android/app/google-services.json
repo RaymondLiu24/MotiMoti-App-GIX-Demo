@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "134553262841",
+    "project_id": "motimoti-app",
+    "storage_bucket": "motimoti-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134553262841:android:1f5d24f95e853a7773e028",
+        "android_client_info": {
+          "package_name": "com.example.motimoti_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134553262841-86qb9neftj2kl1ffglif2km1an4u54a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEm7tIu_I0sOpQe8N8OfTj-jNchQ6d_pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134553262841-86qb9neftj2kl1ffglif2km1an4u54a5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "134553262841-skbak8fni0al7gm454cqtgf1kq0vg9rk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.motimotiApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
